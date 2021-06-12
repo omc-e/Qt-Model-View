@@ -71,17 +71,17 @@ remove1->setObjectName("remove1");
 remove2->setObjectName("remove2");
 
 
-      stringlist.append("Djordje Djuric");
-      stringlist.append("Berina Mrkonjic");
-      stringlist.append("Semir Celikovic");
-      stringlist.append("Dino Mocic");
-      stringlist.append("Mirza Dizdarevic");
-      stringlist.append("Dzeneta Gutic");
-      stringlist.append("Silvio Marjanovic");
+      stringlist.append("Emsar Omic");
+      stringlist.append("Sandra Glamocak");
       stringlist.append("Ajla Halilovic");
-      stringlist.append("Tarik Jasarevic");
-      stringlist.append("Nermina Zukic");
-      stringlist.append("Eldin Osmanovic");
+      stringlist.append("Vedran Savic");
+      stringlist.append("Sejla Sakovic");
+      stringlist.append("Kanita Karic");
+      stringlist.append("Ajdin Mesic");
+      stringlist.append("Faris Kadic");
+      stringlist.append("Amar Zukic");
+      stringlist.append("Adnan Strasevic");
+      stringlist.append("Eldin Avdihodzic");
       stringmodel.setStringList(stringlist);
       listview->setModel(&stringmodel);
       tableview->setModel(&stringmodel);
